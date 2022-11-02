@@ -146,3 +146,4 @@ while (z > 0){
   }
   z--
 }
+console.log("hi");
